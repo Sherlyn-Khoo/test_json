@@ -1,14 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "vendors": [
+    {"id":1,"name":"Roomm","desc":null,"contactPerson":"Brenden Esche","contactNum":"327-923-5598","email":"besche0@bbb.org","website":"https://elegantthemes.com"},
+    {"id":2,"name":"Photobug","desc":null,"contactPerson":"Cristina Cowdray","contactNum":"169-357-3665","email":"ccowdray1@about.com","website":"http://samsung.com"},
+    {"id":3,"name":"Eadel","desc":null,"contactPerson":"Gilberta Giovannazzi","contactNum":"157-246-8010","email":"ggiovannazzi2@mozilla.com","website":null}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "category": [
+    {"id":"1","name":"Car"},
+    {"id":"2","name":"Shirt"},
+    {"id":"3","name":"Table"},
+    {"id":"4","name":"Fish"}
+  ]
 }
