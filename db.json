@@ -10,13 +10,15 @@
     "terms": "30 Days",
     "items": [
         {
-            "account": "500-0000",
+            "seq": 1,
+            "account": "500-0000",            
             "desc": "Nokia 8850",
             "amt": 7600.00,
             "tax": "",
             "sub_total": 7600.00            
         },
         {
+            "seq": 2,
             "account": "500-0000",
             "desc": "Nokia 7110",
             "amt": 1388.00,
