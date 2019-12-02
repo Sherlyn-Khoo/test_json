@@ -22,7 +22,7 @@
             "account": "500-0000",
             "desc": "Nokia 7110",
             "amt": 1388.00,
-            "tax": "",
+            "tax": "GST",
             "sub_total": 1388.00            
         }
     ],
