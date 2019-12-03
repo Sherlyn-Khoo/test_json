@@ -14,7 +14,7 @@
             "account": "500-0000",            
             "desc": "Nokia 8850",
             "amt": 7600.00,
-            "tax": "",
+            "tax": "GST",
             "sub_total": 7600.00            
         },
         {
